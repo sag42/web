@@ -3,4 +3,8 @@
 
 /target
 **/*.rs.bk
+
 Cargo.lock
+
+*.swp
+*.wo
